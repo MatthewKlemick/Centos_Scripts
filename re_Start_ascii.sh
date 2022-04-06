@@ -15,5 +15,3 @@ echo "#         .xWWO'  ,0WMNo. 'OWNd.         #"
 echo "#        .cOOd.    'dO0k:  .dOOc         #"
 echo "#                                        #"
 echo "##########################################"
-
-curl https://raw.githubusercontent.com/kris-classes/restart/main/automated.sh | bash
