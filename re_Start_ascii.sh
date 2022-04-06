@@ -1,5 +1,5 @@
 #!/bin/bash
-# Usage: curl  | bash
+# Usage: curl https://raw.githubusercontent.com/MatthewKlemick/Centos_Scripts/main/re_Start_ascii.sh | bash
 
 echo "##########################################"
 echo "#                                        #"
