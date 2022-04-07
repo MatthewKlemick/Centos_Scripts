@@ -2,11 +2,10 @@
 # Usage: curl https://raw.githubusercontent.com/MatthewKlemick/Centos_Scripts/main/re_Start_ascii.sh | bash
 # Colors
 Color_Off='\033[0m'
-Blue='\033[0;34m'
-On_Purple='\033[45m'
-White='\033[0;97m'
+Green='\033[0;32m'
+On_Black='\033[40m'
 
-echo -e "${Blue}${On_Purple}##########################################"
+echo -e "${Green}${On_Black}##########################################"
 echo -e "#                                        #"
 echo -e "#                  ...                   #"
 echo -e "#                 .oKKo.                 #"
